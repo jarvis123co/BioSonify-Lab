@@ -1,0 +1,4 @@
+node_modules/
+__pycache__/
+verification/*
+!verification/reference-events.json

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this software and acknowledge the Seq2Music mapping source."
+title: "BioSonify Lab"
+type: software
+authors:
+  - family-names: Cao
+    given-names: Yunpeng
+    affiliation: "Independent researcher, Beijing, China"
+version: 1.0.0
+date-released: 2026-11-17
+license: MIT
+abstract: "An offline browser application for deterministic DNA, RNA and protein sonification, positional variant comparison and traceable event export."
