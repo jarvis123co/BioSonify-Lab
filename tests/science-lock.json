@@ -1,8 +1,0 @@
-{
-  "mapping": "seq2music-mapping-v2",
-  "coreSha256": "18007ffeaa74b883aa78f81f32549e54e63adbb649cc8f495d0b66d67018d813",
-  "referenceVersion": "0.3.2",
-  "referenceSha256": "7ec4a7fa6211f6c429031b3fd1df89371f7d1aae356ae8e695df647b74c45ba2",
-  "baseline": "docs/control-study-summary.md",
-  "scope": "Freeze all of src/core.js, including mapping, timing and single-sequence writers. Comparison is an external adapter. Changing this lock requires an explicit core change decision and fresh independent regression evidence."
-}
